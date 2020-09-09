@@ -1,5 +1,5 @@
 # CoreWebAPI
-ASP.Net Core Web API Authenticated using Microsoft Identity Web
+.Net Core API Authenticated using Microsoft Identity Web
 
 # Minimal Path to Awesome
 
